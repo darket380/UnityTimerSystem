@@ -1,0 +1,13 @@
+{
+  "name": "com.darket380.timer-system",
+  "version": "1.0.0",
+  "displayName": "Timer System",
+  "description": "Lightweight, safe delayed-action manager with scaled/unscaled time, weak references and TimerHandle.",
+  "unity": "2019.4",
+  "keywords": ["timer", "delayed", "callback", "utility"],
+  "category": "Utilities",
+  "author": {
+    "name": "Darket380",
+    "url": "https://github.com/darket380/UnityTimerSystem"
+  }
+}
